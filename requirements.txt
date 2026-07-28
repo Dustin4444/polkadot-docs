@@ -15,7 +15,7 @@ papermoon-mkdocs-plugins==0.1.0a18
 # Markdown extensions
 Markdown==3.7
 Pygments==2.19.1
-pymdown-extensions==10.14.3
+pymdown-extensions==11.0
 
 # Dependencies
 Babel==2.15.0
